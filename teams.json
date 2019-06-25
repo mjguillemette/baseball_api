@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "location": "Baltimore",
+    "mascot": "Orioles",
+    "abbreviation": "BAL",
+    "league": "AL",
+    "division": "East"
+  },
+  {
+    "id": 2,
+    "location": "Boston",
+    "mascot": "Red Sox",
+    "abbreviation": "BOS",
+    "league": "AL",
+    "division": "East"
+  },
+  {
+    "id": 3,
+    "location": "New York",
+    "mascot": "Yankees",
+    "abbreviation": "NYY",
+    "league": "AL",
+    "division": "East"
+  },
+  {
+    "id": 4,
+    "location": "Tampa Bay",
+    "mascot": "Rays",
+    "abbreviation": "TB",
+    "league": "AL",
+    "division": "East"
+  },
+  {
+    "id": 5,
+    "location": "Toronto",
+    "mascot": "Blue Jays",
+    "abbreviation": "TOR",
+    "league": "AL",
+    "division": "East"
+  },
+  {
+    "id": 6,
+    "location": "Chicago",
+    "mascot": "White Sox",
+    "abbreviation": "CHW",
+    "league": "AL",
+    "division": "Central"
+  },
+  {
+    "id": 7,
+    "location": "Cleveland",
+    "mascot": "Indians",
+    "abbreviation": "CLE",
+    "league": "AL",
+    "division": "Central"
+  },
+  {
+    "id": 8,
+    "location": "Detroit",
+    "mascot": "Tigers",
+    "abbreviation": "DET",
+    "league": "AL",
+    "division": "Central"
+  },
+  {
+    "id": 9,
+    "location": "Kansas City",
+    "mascot": "Royals",
+    "abbreviation": "KC",
+    "league": "AL",
+    "division": "Central"
+  },
+  {
+    "id": 10,
+    "location": "Minnesota",
+    "mascot": "Twins",
+    "abbreviation": "MIN",
+    "league": "AL",
+    "division": "Central"
+  },
+  {
+    "id": 11,
+    "location": "Houston",
+    "mascot": "Astros",
+    "abbreviation": "HOU",
+    "league": "AL",
+    "division": "West"
+  },
+  {
+    "id": 12,
+    "location": "Los Angeles",
+    "mascot": "Angels",
+    "abbreviation": "LAA",
+    "league": "AL",
+    "division": "West"
+  },
+  {
+    "id": 13,
+    "location": "Oakland",
+    "mascot": "Athletics",
+    "abbreviation": "OAK",
+    "league": "AL",
+    "division": "West"
+  },
+  {
+    "id": 14,
+    "location": "Seattle",
+    "mascot": "Mariners",
+    "abbreviation": "SEA",
+    "league": "AL",
+    "division": "West"
+  },
+  {
+    "id": 15,
+    "location": "Texas",
+    "mascot": "Rangers",
+    "abbreviation": "TEX",
+    "league": "AL",
+    "division": "West"
+  },
+  {
+    "id": 16,
+    "location": "Atlanta",
+    "mascot": "Braves",
+    "abbreviation": "ATL",
+    "league": "NL",
+    "division": "East"
+  },
+  {
+    "id": 17,
+    "location": "Miami",
+    "mascot": "Marlins",
+    "abbreviation": "MIA",
+    "league": "NL",
+    "division": "East"
+  },
+  {
+    "id": 18,
+    "location": "New York",
+    "mascot": "Mets",
+    "abbreviation": "NYM",
+    "league": "NL",
+    "division": "East"
+  },
+  {
+    "id": 19,
+    "location": "Philadelphia",
+    "mascot": "Phillies",
+    "abbreviation": "PHI",
+    "league": "NL",
+    "division": "East"
+  },
+  {
+    "id": 20,
+    "location": "Washington",
+    "mascot": "Nationals",
+    "abbreviation": "WSH",
+    "league": "NL",
+    "division": "East"
+  },
+  {
+    "id": 21,
+    "location": "Chicago",
+    "mascot": "Cubs",
+    "abbreviation": "CHC",
+    "league": "NL",
+    "division": "Central"
+  },
+  {
+    "id": 22,
+    "location": "Cincinnati",
+    "mascot": "Reds",
+    "abbreviation": "CIN",
+    "league": "NL",
+    "division": "Central"
+  },
+  {
+    "id": 23,
+    "location": "Milwaukee",
+    "mascot": "Brewers",
+    "abbreviation": "MIL",
+    "league": "NL",
+    "division": "Central"
+  },
+  {
+    "id": 24,
+    "location": "Pittsburgh",
+    "mascot": "Pirates",
+    "abbreviation": "PIT",
+    "league": "NL",
+    "division": "Central"
+  },
+  {
+    "id": 25,
+    "location": "St. Louis",
+    "mascot": "Cardinals",
+    "abbreviation": "STL",
+    "league": "NL",
+    "division": "Central"
+  },
+  {
+    "id": 26,
+    "location": "Arizona",
+    "mascot": "Diamondbacks",
+    "abbreviation": "ARI",
+    "league": "NL",
+    "division": "West"
+  },
+  {
+    "id": 27,
+    "location": "Colorado",
+    "mascot": "Rockies",
+    "abbreviation": "COL",
+    "league": "NL",
+    "division": "West"
+  },
+  {
+    "id": 28,
+    "location": "Los Angeles",
+    "mascot": "Dodgers",
+    "abbreviation": "LAD",
+    "league": "NL",
+    "division": "West"
+  },
+  {
+    "id": 29,
+    "location": "San Diego",
+    "mascot": "Padres",
+    "abbreviation": "SD",
+    "league": "NL",
+    "division": "West"
+  },
+  {
+    "id": 30,
+    "location": "San Francisco",
+    "mascot": "Giants",
+    "abbreviation": "SF",
+    "league": "NL",
+    "division": "West"
+  }
+]
