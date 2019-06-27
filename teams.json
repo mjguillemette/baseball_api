@@ -1,5 +1,13 @@
 [
   {
+    "id": 30,
+    "location": "San Francisco",
+    "mascot": "Giants",
+    "abbreviation": "SF",
+    "league": "NL",
+    "division": "West"
+  },
+  {
     "id": 1,
     "location": "Baltimore",
     "mascot": "Orioles",
@@ -228,14 +236,6 @@
     "location": "San Diego",
     "mascot": "Padres",
     "abbreviation": "SD",
-    "league": "NL",
-    "division": "West"
-  },
-  {
-    "id": 30,
-    "location": "San Francisco",
-    "mascot": "Giants",
-    "abbreviation": "SF",
     "league": "NL",
     "division": "West"
   }

@@ -23,14 +23,26 @@ app.get('/teams/:id', (request, response) => {
 
 
 app.post('/teams', bodyParser.json(), (request, response) => {
-  var { location, mascot, abbreviation, league, division} = request.body
-  
-  var newTeam = teams.push(request.body)
+  var {id, location, mascot, abbreviation, league, division} = request.body
+
+  id = 0
+
+  teams.forEach(team => {
+    // console.log(team.id)
+    if(parseInt(team.id) > id) {
+       id = parseInt(team.id) + 1 
+    }
+  })
 
   if(!location || !mascot || !abbreviation || !league || !division){
-    response.sendStatus(400).send('Creating a new team requires an object with: location, mascot, abbreviation, league and division')
+    response.send('Team object must include: location, mascot, abbreviation, league and division.')
+            .status(400)
   } else {
-    response.sendStatus(201).send(newTeam)
+    var newTeam = {id, location, mascot, abbreviation, league, division}
+    teams.push(newTeam)
+
+    response.send(newTeam)
+            .status(201)
   }
 })
 
